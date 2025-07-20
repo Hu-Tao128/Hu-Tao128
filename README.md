@@ -27,7 +27,7 @@
   App de nutrición con escáner de productos y conexión con báscula inteligente (`React Native + MongoDB`)
   
 - 🚗 [SafeCar](https://github.com/Hu-Tao128)  
-  Seguro de autos con localizador GPS y alertas de movimiento (`Java + Firebase`)
+  Seguro de autos con localizador GPS y alertas de movimiento (`JavaScript + Firebase`)
 
 ---
 ### 📊 Estadísticas de GitHub
