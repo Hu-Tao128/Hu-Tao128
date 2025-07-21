@@ -19,21 +19,25 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🚀 Proyectos destacados
 
-- 🔎 [FitBalance App](https://github.com/Hu-Tao128)  
-  App de nutrición con escáner de productos y conexión con báscula inteligente (`React Native + MongoDB`)
-  
-- 🚗 [SafeCar](https://github.com/Hu-Tao128)  
-  Seguro de autos con localizador GPS y alertas de movimiento (`JavaScript + Firebase`)
+- 🔎 [FitBalance App](https://github.com/Hu-Tao128/FitBalance)  
+  App de nutrición con escáner de productos y conexión con báscula inteligente  
+  (`React Native + MongoDB`)
+
+- 🚗 [SafeCar](https://github.com/oscarsgg/SafeCar)  
+  Seguro de autos con localizador GPS y alertas de movimiento  
+  (`JavaScript + Firebase`)  
+  > Contribución en frontend y lógica de comunicación GPS.
 
 ---
+
 ### 📊 Estadísticas de GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hu-Tao128&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hu-Tao128's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hu-Tao128&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
