@@ -2,6 +2,8 @@
 **Backend & Mobile Developer**  
 Arquitectura · Diseño de APIs · Integración Móvil
 
+🔗 Portafolio técnico: https://portafolio-sigma-puce.vercel.app
+
 ---
 
 ## Sobre mí
