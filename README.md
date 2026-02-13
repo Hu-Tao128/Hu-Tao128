@@ -1,44 +1,92 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2CThere.I'm+Aya%F0%9F%91%8B)](https://git.io/typing-svg)
----
-
-## 🎯 About Me
-
-- 🧑‍💻 TSU en Tecnologías de la Información – UTT (en curso)
-- 💻 Usuario de Arch Linux en ThinkPad T470s
-- ⚙️ Actualmente trabajando con `React Native`, `MongoDB`, `TypeScript` y `JavaScript`
-- 🧪 Me interesa el backend, testing móvil y optimización del sistema
-- 📈 Siempre explorando nuevas tecnologías como `Rust`, `Dart` y `Flutter`
-- 🌐 Me gusta crear software práctico, accesible y multiplataforma
-
-## 🛠️ Tech Stack
-
-![Arch Linux](https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## 🚀 Proyectos destacados
-
-- 🔎 [FitBalance App](https://github.com/Hu-Tao128/FitBalance)  
-  App de nutrición con escáner de productos y conexión con báscula inteligente  
-  (`React Native + MongoDB`)
-
-- 🚗 [SafeCar](https://github.com/oscarsgg/SafeCar)  
-  Seguro de autos con localizador GPS y alertas de movimiento  
-  (`JavaScript + Firebase`)  
-  > Contribución en frontend y lógica de comunicación GPS.
+# Aya  
+**Backend & Mobile Developer**  
+Arquitectura · Diseño de APIs · Integración Móvil
 
 ---
 
-### 📊 Estadísticas de GitHub
+## Sobre mí
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hu-Tao128&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Desarrollador Backend y Mobile con enfoque en arquitectura de sistemas, diseño de APIs y mantenibilidad a largo plazo.
 
-[![Hu-Tao128's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hu-Tao128&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Diseño servicios backend en capas, defino contratos claros entre componentes y construyo integraciones móviles considerando condiciones reales como conectividad inestable, consistencia de datos y escalabilidad.
+
+TSU concluido en Tecnologías de la Información (UTT), actualmente cursando la Ingeniería en Desarrollo y Gestión de Software, mientras desarrollo proyectos personales con enfoque arquitectónico.
+
+---
+
+## Enfoque Principal
+
+- Arquitectura backend (diseño por capas, separación de servicios, contratos DTO)
+- Diseño e integración de APIs REST
+- Comunicación mobile ↔ backend
+- Estrategias de persistencia híbrida (SQL y NoSQL)
+- Fundamentos de escalabilidad y confiabilidad
+- Disciplina de ingeniería por encima de crecimiento acelerado de features
+
+---
+
+## Tecnologías
+
+### Backend
+- Java (Spring Boot)
+- Node.js (TypeScript, Express)
+
+### Bases de Datos
+- PostgreSQL
+- MongoDB
+- Firebase
+
+### Mobile
+- React Native
+- Flutter (en progreso)
+
+### Infraestructura y Herramientas
+- Docker (nivel básico)
+- GitHub Actions
+- Linux (Arch Linux)
+
+---
+
+## Proyectos Destacados
+
+### 🔎 FitBalance
+Plataforma móvil de nutrición con servicios backend e integración de dispositivos.
+
+- Cliente móvil en React Native
+- Servicios backend con MongoDB
+- Ingesta y sincronización de datos de dispositivos
+- Enfoque en estructura modular y contratos de API
+
+Repositorio: https://github.com/Hu-Tao128/FitBalance
+
+---
+
+### 🚗 SafeCar
+Sistema de rastreo vehicular en tiempo real con telemetría en la nube.
+
+- Flujo de datos en tiempo real con Firebase
+- Integración con dispositivos GPS
+- Contribución en frontend y lógica de comunicación
+- Énfasis en consistencia de datos y eventos en tiempo real
+
+Repositorio: https://github.com/oscarsgg/SafeCar
+
+---
+
+## Enfoque de Ingeniería
+
+- Pensamiento arquitectónico antes de expandir funcionalidades
+- Separación clara de responsabilidades (transporte, dominio, persistencia)
+- Contratos explícitos en lugar de comportamientos implícitos
+- Evolución incremental con control de deuda técnica
+- Preferencia por sistemas mantenibles y legibles
+
+---
+
+## Contacto
+
+- GitHub: https://github.com/Hu-Tao128  
+- Email: alcantarahuerta128@gmail.com  
+- Ubicación: Tijuana, Baja California, México
+
+---
