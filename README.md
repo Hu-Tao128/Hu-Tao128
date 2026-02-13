@@ -1,4 +1,4 @@
-# Aya  
+# AyaSc  
 **Backend & Mobile Developer**  
 Arquitectura · Diseño de APIs · Integración Móvil
 
